@@ -1,0 +1,3 @@
+# Simple grammar: S -> A ; A -> a A | a
+S -> A
+A -> a A | a
