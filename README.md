@@ -1,4 +1,18 @@
-LR(0) parser (simple educational implementation)
+# PARSER LR (0) C++ - COMPILADORES
+
+### GRUPO:
+
+JOÃO PEDRO DO PRADO BELONE
+
+SEGIO KENJI SAWASAKI TANAKA
+
+RODRIGO CAMPOS SCARABELLO
+
+GUSTAVO ARAUJO NAKAMURA
+
+PEDRO GABRIEL XAVIER VEIGA
+
+---
 
 Files:
 - `lr0_parser.cpp`: single-file C++ LR(0) parser and automaton builder
