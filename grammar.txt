@@ -1,4 +1,7 @@
 # Grammar: S -> AA ; A -> aA | b
 # Producoes separadas por linhas igual nas aulas
 S -> A A
-A -> a A | b
+A -> c C
+C -> a C | eps
+
+
